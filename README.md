@@ -2,7 +2,7 @@
 
 Progress
 
-- [ ] Helsinki MOOC Python Introduction            (test in june)
-- [ ] Helsinki MOOC Python Advanced                (test in june)
-- [ ] CS50p
-- [ ] CS50x
+- [ ] Python Introduction MOOC, University of Helsinki, 2026
+- [ ] Python Advanced MOOC, University of Helsinki, 2026
+- [ ] CS50p, Harvard University
+- [ ] CS50x  Harvard University
